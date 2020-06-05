@@ -1,0 +1,122 @@
+html {
+	font-family: 'Ubuntu Light', 'Ubuntu', sans-serif;
+	font-size: 20px;
+	background: rgb(8, 8, 8);
+}
+
+body {
+	display: block;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+header {
+	text-align: center;
+}
+
+.title {
+	text-align: center;
+}
+
+.title h1 {
+	color: white;
+}
+
+.title h4 {
+	color: white;
+}
+
+.logo {
+	margin: 50px;
+}
+
+.logo img {
+	width: 45%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	text-align: center;
+	position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.email {
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+}
+
+.github {
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+}
+
+.twitter {
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+}
+
+.email:hover {
+	color: rgb(6, 74, 68);
+}
+
+.github:hover {
+	color: rgb(6, 74, 68);
+}
+
+.twitter:hover {
+	color: rgb(6, 74, 68);
+}
+
+.email {
+	margin: 10px;
+}
+
+.github {
+	margin: 10px;
+}
+
+.twitter {
+	margin: 10px;
+}
+
+.home {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 30px;
+	top: 12px;
+}
+
+.projects {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 30px;
+	top: 12px;
+}
+
+.about {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 30px;
+	top: 12px;
+}
+
+.projects:hover {
+	color: rgb(6, 74, 68);
+}
+
+.about:hover {
+	color: rgb(6, 74, 68);
+}
+
+.home:hover {
+	color: rgb(6, 74, 68);
+}

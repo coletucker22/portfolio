@@ -1,0 +1,49 @@
+html {
+	font-family: 'Ubuntu Light', 'Ubuntu', sans-serif;
+	font-size: 20px;
+	background: rgb(8, 8, 8);
+}
+
+body {
+	display: block;
+}
+
+header {
+	text-align: center;
+}
+
+.home {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 30px;
+	top: 12px;
+}
+
+.projects {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 30px;
+	top: 12px;
+}
+
+.about {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 30px;
+	top: 12px;
+}
+
+.projects:hover {
+	color: rgb(6, 74, 68);
+}
+
+.about:hover {
+	color: rgb(6, 74, 68);
+}
+
+.home:hover {
+	color: rgb(6, 74, 68);
+}
