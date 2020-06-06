@@ -81,3 +81,31 @@ header {
 .title p {
 	color: white;
 }
+
+.divider {
+	text-align: center;
+	color: rgb(13, 167, 153);
+}
+
+.contact {
+	text-align: center;
+	color: white;
+}
+
+.email {
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+}
+
+.twitter {
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+}
+
+.email:hover {
+	color: rgb(6, 74, 68);
+}
+
+.twitter:hover {
+	color: rgb(6, 74, 68);
+}
