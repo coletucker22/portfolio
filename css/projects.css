@@ -48,3 +48,90 @@ header {
 .home:hover {
 	color: rgb(6, 74, 68);
 }
+
+.title h1 {
+	color: rgb(13, 167, 153);
+}
+
+.title h2 {
+	color: rgb(13, 167, 153);
+}
+
+.title {
+	text-align: center;
+	margin: 50px;
+}
+
+.projectOne a {
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	font-size: 15px;
+}
+
+.projectOne a:hover {
+	color: rgb(6, 74, 68);
+}
+
+.projectOne {
+	text-align: center;
+	color: white;
+}
+
+
+#img1 {
+	height: auto;
+	max-width: 40%;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+#img1:hover {
+	opacity: 0.7;
+}
+
+.divider {
+	text-align: center;
+	color: rgb(13, 167, 153);
+}
+
+.projectTwo {
+	text-align: center;
+	color: white;
+}
+
+.projectTwo a {
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	font-size: 15px;
+}
+
+.projectTwo a:hover {
+	color: rgb(6, 74, 68);
+}
+
+#img2 {
+	height: auto;
+	max-width: 40%;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+#img2:hover {
+	opacity: 0.7;
+}
+
+.more-info {
+	text-align: center;
+	color: white;
+}
+
+.more-info a {
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+}
+
+.more-info a:hover {
+	color: rgb(6, 74, 68);
+}
