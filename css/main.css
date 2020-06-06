@@ -31,7 +31,7 @@ header {
 }
 
 .logo img {
-	width: 45%;
+	width: 700px;
 	height: auto;
 	display: block;
 	margin-left: auto;
@@ -93,6 +93,14 @@ footer {
 	top: 12px;
 }
 
+.skills {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 30px;
+	top: 12px;
+}
+
 .projects {
 	position: relative;
 	text-decoration: none;
@@ -118,5 +126,9 @@ footer {
 }
 
 .home:hover {
+	color: rgb(6, 74, 68);
+}
+
+.skills:hover {
 	color: rgb(6, 74, 68);
 }

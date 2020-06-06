@@ -37,6 +37,18 @@ header {
 	top: 12px;
 }
 
+.skills {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 30px;
+	top: 12px;
+}
+
+.skills:hover {
+	color: rgb(6, 74, 68);
+}
+
 .projects:hover {
 	color: rgb(6, 74, 68);
 }

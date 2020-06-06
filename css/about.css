@@ -36,6 +36,18 @@ header {
 	top: 12px;
 }
 
+.skills {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 30px;
+	top: 12px;
+}
+
+.skills:hover {
+	color: rgb(6, 74, 68);
+}
+
 .projects:hover {
 	color: rgb(6, 74, 68);
 }
@@ -46,4 +58,24 @@ header {
 
 .home:hover {
 	color: rgb(6, 74, 68);
+}
+
+.title {
+	color: rgb(13, 167, 153);
+	text-align: center;
+	margin: 50px;
+}
+
+#img1 {
+	height: auto;
+	width: 400px;
+	border-radius: 10px;
+	max-width: 400px;
+	min-width: 200px;
+}
+
+.profile {
+	text-align: center;
+	color: rgb(13, 167, 153);
+	margin: 50px;
 }
