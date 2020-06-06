@@ -59,3 +59,25 @@ header {
 .home:hover {
 	color: rgb(6, 74, 68);
 }
+
+.title {
+	text-align: center;
+	color: rgb(13, 167, 153);
+}
+
+.title h1 {
+	margin: 50px;
+	margin-bottom: 10px;
+}
+
+.title img {
+	height: auto;
+	min-width: 10%;
+	width: 300px;
+	max-width: 30%;
+	border-radius: 50%;
+}
+
+.title p {
+	color: white;
+}
