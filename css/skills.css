@@ -1,0 +1,145 @@
+html {
+	font-family: 'Ubuntu Light', 'Ubuntu', sans-serif;
+	font-size: 20px;
+	background: rgb(8, 8, 8);
+}
+
+body {
+	display: block;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+header {
+	text-align: center;
+}
+
+.home {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 10px;
+	top: 12px;
+}
+
+.skills {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 10px;
+	top: 12px;
+}
+
+.projects {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 10px;
+	top: 12px;
+}
+
+.about {
+	position: relative;
+	text-decoration: none;
+	color: rgb(13, 167, 153);
+	margin: 10px;
+	top: 12px;
+}
+
+.projects:hover {
+	color: rgb(6, 74, 68);
+}
+
+.about:hover {
+	color: rgb(6, 74, 68);
+}
+
+.home:hover {
+	color: rgb(6, 74, 68);
+}
+
+.skills:hover {
+	color: rgb(6, 74, 68);
+}
+
+.skillList {
+  text-align: center;
+  margin: 50px;
+}
+
+.skillList h1 {
+  color: rgb(13, 167, 153);
+  margin-bottom: 10px;
+}
+
+.skillList h2 {
+  color: rgb(13, 167, 153);
+}
+
+.python {
+  height: auto;
+  width: 200px;
+}
+
+.django {
+  height: auto;
+  width: 200px;
+}
+
+.javascript {
+  height: auto;
+  width: 200px;
+}
+
+.html {
+  height: auto;
+  width: 200px;
+}
+
+.css {
+  height: auto;
+  width: 200px;
+}
+
+.node {
+  height: auto;
+  width: 200px;
+}
+
+.react {
+  height: auto;
+  width: 200px;
+}
+
+.redux {
+  height: auto;
+  width: 200px;
+}
+
+.PostgreSQL {
+  height: auto;
+  width: 200px;
+}
+
+.sqlite {
+  height: auto;
+  width: 200px;
+}
+
+.skillList p{
+  color: white;
+  font-size: 30px;
+}
+
+.skillList h6 {
+  color: white;
+}
+
+.skillList a {
+  text-decoration: none;
+  color: rgb(13, 167, 153);
+}
+
+.skillList a:hover {
+  color: rgb(6, 74, 68);
+}
