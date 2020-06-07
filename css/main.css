@@ -26,16 +26,10 @@ header {
 	color: white;
 }
 
-.logo {
-	margin: 50px;
-}
 
-.logo img {
-	width: 100%;
+.logo {
 	height: auto;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	width: 400px;
 }
 
 footer {
@@ -130,5 +124,24 @@ footer {
 }
 
 .skills:hover {
+	color: rgb(6, 74, 68);
+}
+
+.content {
+	text-align: center;
+	color: white;
+	margin: 50px;
+}
+
+.git {
+	text-align: center;
+}
+
+.git a {
+	color: rgb(13, 167, 153);
+	text-decoration: none;
+}
+
+.git a:hover {
 	color: rgb(6, 74, 68);
 }
